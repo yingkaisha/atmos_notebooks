@@ -1,2 +1,3 @@
-# atmos_notebooks
-A collection of Jupyter Notebooks with topics in atmospheric science.
+# Notebook code vault
+
+A collection of useful Jupyter Notebooks.
