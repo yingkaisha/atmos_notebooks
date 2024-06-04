@@ -1,4 +1,8 @@
 *.png
+*.out
+*.sh
+*.log
+*.err
 
 # author's testing scripts
 *TEST*
